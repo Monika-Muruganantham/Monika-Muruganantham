@@ -156,23 +156,23 @@ System Design
 ```
 
 ##🏆 Experience & Activities
-🎓 Computer Science & Engineering Student
-🌱 Open Source Lead
-💻 Infosys Springboard Virtual Internship
-📊 Data Analytics Internship Experience
-🚀 Hackathon & Technical Challenge Participant
-🧠 AI / ML Project Development
-👥 Technical Community & Student Activities
+-🎓 Computer Science & Engineering Student
+-🌱 Open Source Lead
+-💻 Infosys Springboard Virtual Internship
+-📊 Data Analytics Internship Experience
+-🚀 Hackathon & Technical Challenge Participant
+-🧠 AI / ML Project Development
+-👥 Technical Community & Student Activities
 
 
 
-📜 Certifications & Learning
-🎓 GitHub Student Developer Pack
-🐍 Python & Data Analytics Learning
-☁️ AWS / Cloud Learning
-🤖 AI & Machine Learning Learning
-🍃 MongoDB University Badges
-📊 Data Visualization & Analytics Learning
+##📜 Certifications & Learning
+-🎓 GitHub Student Developer Pack
+-🐍 Python & Data Analytics Learning
+-☁️ AWS / Cloud Learning
+-🤖 AI & Machine Learning Learning
+-🍃 MongoDB University Badges
+-📊 Data Visualization & Analytics Learning
 
 I focus on applying what I learn through projects rather than collecting certificates alone.
 
@@ -180,10 +180,10 @@ I focus on applying what I learn through projects rather than collecting certifi
 
 
 
-📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="170" /> </div>
+##📈 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Monika-Muruganantham&show_icons=true&hide_border=true&rank_icon=github" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monika-Muruganantham&layout=compact&hide_border=true" height="170" /> </div>
 🔥 Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" /> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Monika-Muruganantham&hide_border=true" /> </div>
 🐍 Contribution Activity
 <div align="center">
 
@@ -196,7 +196,7 @@ I focus on applying what I learn through projects rather than collecting certifi
 
 I'm always interested in connecting with people working on AI, Machine Learning, Data, Cloud, and Open Source.
 
-<div align="center"> <a href="www.linkedin.com/in/monika-muruganantham-510a28327"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-Explore-black?style=for-the-badge&logo=google-chrome" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail" /> </a> </div>
+<div align="center"> <a href="www.linkedin.com/in/monika-muruganantham-510a28327"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </div>
 <div align="center">
 
 
