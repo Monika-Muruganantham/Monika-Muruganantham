@@ -5,15 +5,10 @@
 ### 💻 Computer Science & Engineering Student | 🤖 AI & ML | 📊 Data Analytics | ☁️ Cloud | 🌱 Open Source
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/monika-muruganantham-510a28327">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+  
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+Machine+Learning+%26+Data;Learning+Cloud+%26+AI+Deployment;Open+Source+%7C+Build+%7C+Learn+%7C+Share" />
@@ -45,13 +40,13 @@ My current interests span across **Artificial Intelligence, Machine Learning, Da
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,sql" />
+<img src="https://skillicons.dev/icons?i=python,sql" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
 
 **Libraries & Tools:**  
@@ -72,7 +67,7 @@ Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 ### ☁️ Cloud & Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### 📊 Data & Visualization
@@ -166,5 +161,52 @@ AI Application Development
 Cloud & AI Deployment
         ↓
 System Design
+
+
+##🏆 Experience & Activities
+🎓 Computer Science & Engineering Student
+🌱 Open Source Lead
+💻 Infosys Springboard Virtual Internship
+📊 Data Analytics Internship Experience
+🚀 Hackathon & Technical Challenge Participant
+🧠 AI / ML Project Development
+👥 Technical Community & Student Activities
+
+
+
+📜 Certifications & Learning
+🎓 GitHub Student Developer Pack
+🐍 Python & Data Analytics Learning
+☁️ AWS / Cloud Learning
+🤖 AI & Machine Learning Learning
+🍃 MongoDB University Badges
+📊 Data Visualization & Analytics Learning
+
+I focus on applying what I learn through projects rather than collecting certificates alone.
+
+
+
+
+
+📈 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="170" /> </div>
+🔥 Contribution Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" /> </div>
+🐍 Contribution Activity
+<div align="center">
+
+</div>
+
+
+
+
+🤝 Let's Connect
+
+I'm always interested in connecting with people working on AI, Machine Learning, Data, Cloud, and Open Source.
+
+<div align="center"> <a href="www.linkedin.com/in/monika-muruganantham-510a28327"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-Explore-black?style=for-the-badge&logo=google-chrome" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail" /> </a> </div>
+<div align="center">
+
+
         ↓
 Open Source Contribution
