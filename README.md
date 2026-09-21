@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi, I'm Monika Muruganantham
 
-<!--
-**Monika-Muruganantham/Monika-Muruganantham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science & Engineering Student
+🤖 AI & Machine Learning | 📊 Data Analytics | ☁️ Cloud
+🌱 Open Source Lead
 
-Here are some ideas to get you started:
+About Me
+→ Building AI-powered applications
+→ Exploring Machine Learning, Data Analytics & Cloud
+→ Interested in Open Source & collaborative development
+→ Currently improving DSA with Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects
+→ Edu2Job – Career Prediction Platform
+→ Seasonal Agriculture Performance Analysis
+→ SpecWise-AI
+→ AI Finance Agent / Hackathon Projects
+
+🛠️ Tech Stack
+Python | SQL | Java | Django | React | MySQL
+Pandas | NumPy | Scikit-learn | Power BI | Git | GitHub
+
+🌱 Open Source
+→ Open Source Lead
+→ Exploring real-world open-source contributions
+→ Organizing student contribution activities
+
+📚 Currently Learning
+→ DSA
+→ Machine Learning
+→ Cloud & AI Deployment
+→ System Design
+
+🤝 Connect With Me
+GitHub | LinkedIn
+
