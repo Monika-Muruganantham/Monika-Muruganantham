@@ -137,19 +137,11 @@ Currently focusing on:
 - 👥 Helping students make their first open-source contribution
 - 🚀 Organizing open-source contribution activities
 
-### 💡 Current Initiative
 
-**Open Source Hunt**
-
-> Find → Understand → Fix → Test → Pull Request → Review
-
-The goal is to give students practical experience contributing to real repositories.
-
----
 
 ## 📚 Currently Learning
 
-```text
+```
 Data Structures & Algorithms
         ↓
 Python Problem Solving
@@ -161,7 +153,7 @@ AI Application Development
 Cloud & AI Deployment
         ↓
 System Design
-
+```
 
 ##🏆 Experience & Activities
 🎓 Computer Science & Engineering Student
